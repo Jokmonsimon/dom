@@ -1,4 +1,4 @@
-# Document Object Model (DOM) Basics
+# Document Object Model (DOM) - Basics
 
 ## Structure
 
